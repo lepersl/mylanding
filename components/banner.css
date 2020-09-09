@@ -1,0 +1,13 @@
+.banner {
+	background-image: url(../images/landingpic.jpg);
+	background-size: cover;
+	background-position: center;
+	color: rgb(230,230,230);
+	height: 500px;
+	position: center;
+	padding: 50px;
+	display: flex;
+	flex-direction: column;
+    justify-content: center;
+    font-size: 2em;
+}
